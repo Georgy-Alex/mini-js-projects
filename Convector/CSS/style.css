@@ -1,0 +1,54 @@
+body {
+    color: #18191F;
+    margin: 0;
+    font-size: 20px;
+    background: #d1ac8a;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+
+.title h1 {
+    padding: 50px;
+    background: #cfa680;
+}
+
+.inputUser{
+    width: 250px;
+    height: 20px;
+}
+
+.conclusion {
+    width: 300px;
+    height: 20px;
+}
+
+.js-calculate{
+    border: none;
+    margin-top: 20px;
+    padding: 10px 20px ;
+    background: #fdfcc1;
+    border-radius: 5px;
+}
+
+.js-calculate:hover{
+    background: #f0efaa;
+}
+
+
+.container {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.consider {
+    margin-top: 250px;
+}
+
+input {
+    margin-top: 35px;
+}
